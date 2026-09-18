@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Harina de trigo",
+    "unit": "kg",
+    "stock": 42,
+    "minStock": 15,
+    "costPerUnit": 8.5,
+    "supplierId": 1,
+    "expiryDate": "2026-12-20"
+  },
+  {
+    "id": 2,
+    "name": "Azúcar",
+    "unit": "kg",
+    "stock": 28,
+    "minStock": 10,
+    "costPerUnit": 9.2,
+    "supplierId": 1,
+    "expiryDate": "2027-02-15"
+  },
+  {
+    "id": 3,
+    "name": "Mantequilla",
+    "unit": "kg",
+    "stock": 9,
+    "minStock": 6,
+    "costPerUnit": 44,
+    "supplierId": 2,
+    "expiryDate": "2026-10-05"
+  },
+  {
+    "id": 4,
+    "name": "Crema de leche",
+    "unit": "L",
+    "stock": 7,
+    "minStock": 8,
+    "costPerUnit": 28,
+    "supplierId": 2,
+    "expiryDate": "2026-09-24"
+  },
+  {
+    "id": 5,
+    "name": "Chocolate cobertura",
+    "unit": "kg",
+    "stock": 12,
+    "minStock": 5,
+    "costPerUnit": 76,
+    "supplierId": 3,
+    "expiryDate": "2027-01-30"
+  },
+  {
+    "id": 6,
+    "name": "Fondant blanco",
+    "unit": "kg",
+    "stock": 6,
+    "minStock": 4,
+    "costPerUnit": 52,
+    "supplierId": 3,
+    "expiryDate": "2026-11-18"
+  },
+  {
+    "id": 7,
+    "name": "Huevos",
+    "unit": "unidad",
+    "stock": 156,
+    "minStock": 60,
+    "costPerUnit": 1.25,
+    "supplierId": 2,
+    "expiryDate": "2026-09-28"
+  },
+  {
+    "id": 8,
+    "name": "Frutilla",
+    "unit": "kg",
+    "stock": 4.5,
+    "minStock": 5,
+    "costPerUnit": 32,
+    "supplierId": 3,
+    "expiryDate": "2026-09-21"
+  },
+  {
+    "id": 9,
+    "name": "Caja torta 30 cm",
+    "unit": "unidad",
+    "stock": 24,
+    "minStock": 15,
+    "costPerUnit": 7.5,
+    "supplierId": 4,
+    "expiryDate": ""
+  },
+  {
+    "id": 10,
+    "name": "Base dorada 30 cm",
+    "unit": "unidad",
+    "stock": 20,
+    "minStock": 12,
+    "costPerUnit": 6,
+    "supplierId": 4,
+    "expiryDate": ""
+  }
+]

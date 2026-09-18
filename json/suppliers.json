@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Molinos Andinos",
+    "contact": "Carla Soria",
+    "phone": "4450033",
+    "email": "ventas@molinosandinos.bo",
+    "leadTimeDays": 2,
+    "status": "Activo"
+  },
+  {
+    "id": 2,
+    "name": "Lácteos del Valle",
+    "contact": "Mario Rocha",
+    "phone": "4481188",
+    "email": "pedidos@lacteosvalle.bo",
+    "leadTimeDays": 1,
+    "status": "Activo"
+  },
+  {
+    "id": 3,
+    "name": "Dulce Insumo",
+    "contact": "Patricia Flores",
+    "phone": "72241199",
+    "email": "ventas@dulceinsumo.bo",
+    "leadTimeDays": 3,
+    "status": "Activo"
+  },
+  {
+    "id": 4,
+    "name": "Empaques Premium",
+    "contact": "José Paredes",
+    "phone": "76588210",
+    "email": "comercial@empaquespremium.bo",
+    "leadTimeDays": 4,
+    "status": "Activo"
+  }
+]

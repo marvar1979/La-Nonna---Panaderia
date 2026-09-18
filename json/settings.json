@@ -1,0 +1,38 @@
+{
+  "businessName": "La Nonna",
+  "currency": "BOB",
+  "taxLabel": "NIT",
+  "phone": "+591 70000000",
+  "address": "Cochabamba, Bolivia",
+  "lowStockThresholdMode": "per-item",
+  "theme": "light",
+  "orderStatuses": [
+    "Pendiente aprobación",
+    "Confirmado",
+    "En producción",
+    "Listo",
+    "En ruta",
+    "Entregado",
+    "Cancelado"
+  ],
+  "paymentStatuses": [
+    "Pendiente",
+    "Parcial",
+    "Pagado",
+    "Reembolsado"
+  ],
+  "deliveryStatuses": [
+    "Programado",
+    "En ruta",
+    "Entregado",
+    "Incidencia"
+  ],
+  "productionStatuses": [
+    "Planificado",
+    "Preparación",
+    "Horneado",
+    "Relleno",
+    "Decoración",
+    "Listo"
+  ]
+}

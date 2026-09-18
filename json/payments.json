@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "orderId": 1,
+    "date": "2026-09-14",
+    "method": "QR",
+    "amount": 200,
+    "reference": "QR-84521",
+    "status": "Confirmado",
+    "notes": "Anticipo 48%."
+  },
+  {
+    "id": 2,
+    "orderId": 2,
+    "date": "2026-09-15",
+    "method": "Transferencia",
+    "amount": 330,
+    "reference": "TR-20331",
+    "status": "Confirmado",
+    "notes": "Pago completo."
+  },
+  {
+    "id": 3,
+    "orderId": 3,
+    "date": "2026-09-16",
+    "method": "Transferencia",
+    "amount": 400,
+    "reference": "TR-20408",
+    "status": "Confirmado",
+    "notes": "Anticipo corporativo."
+  },
+  {
+    "id": 4,
+    "orderId": 4,
+    "date": "2026-09-18",
+    "method": "Efectivo",
+    "amount": 180,
+    "reference": "CAJA-0918-01",
+    "status": "Confirmado",
+    "notes": "Pago completo."
+  }
+]

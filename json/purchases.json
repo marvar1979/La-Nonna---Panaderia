@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "code": "OC-2026-031",
+    "supplierId": 2,
+    "date": "2026-09-18",
+    "status": "Pendiente",
+    "total": 620,
+    "notes": "Prioridad crema y mantequilla.",
+    "items": [
+      {
+        "ingredientId": 4,
+        "qty": 15,
+        "unitCost": 28
+      },
+      {
+        "ingredientId": 3,
+        "qty": 4.5,
+        "unitCost": 44
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "code": "OC-2026-030",
+    "supplierId": 4,
+    "date": "2026-09-15",
+    "status": "Recibido",
+    "total": 270,
+    "notes": "Reposición semanal de empaques.",
+    "items": [
+      {
+        "ingredientId": 9,
+        "qty": 20,
+        "unitCost": 7.5
+      },
+      {
+        "ingredientId": 10,
+        "qty": 20,
+        "unitCost": 6
+      }
+    ]
+  }
+]

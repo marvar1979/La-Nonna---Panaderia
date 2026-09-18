@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "orderId": 1,
+    "date": "2026-09-20",
+    "timeSlot": "15:00 - 16:00",
+    "status": "Programado",
+    "driver": "Diego Salinas",
+    "fee": 20,
+    "address": "Cala Cala, calle Los Álamos 44",
+    "notes": "Llamar 15 min antes."
+  },
+  {
+    "id": 2,
+    "orderId": 3,
+    "date": "2026-09-23",
+    "timeSlot": "10:30 - 11:30",
+    "status": "Programado",
+    "driver": "Diego Salinas",
+    "fee": 25,
+    "address": "Av. Ballivián 880",
+    "notes": "Recepción del edificio."
+  },
+  {
+    "id": 3,
+    "orderId": 4,
+    "date": "2026-09-18",
+    "timeSlot": "12:00 - 13:00",
+    "status": "Entregado",
+    "driver": "Recojo en tienda",
+    "fee": 0,
+    "address": "Sucursal principal",
+    "notes": ""
+  }
+]

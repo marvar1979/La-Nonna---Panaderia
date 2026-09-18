@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "code": "PED-2026-1041",
+    "clientId": 2,
+    "type": "Personalizado",
+    "eventDate": "2026-09-20",
+    "deliveryMethod": "Delivery",
+    "deliveryAddress": "Cala Cala, calle Los Álamos 44",
+    "status": "En producción",
+    "paymentStatus": "Parcial",
+    "total": 420,
+    "deposit": 200,
+    "balance": 220,
+    "priority": "Alta",
+    "assignedTo": 4,
+    "createdAt": "2026-09-14",
+    "notes": "Confirmar topper un día antes.",
+    "items": [
+      {
+        "productId": 5,
+        "qty": 1,
+        "unitPrice": 420,
+        "flavor": "Chocolate y frutilla",
+        "customText": "Feliz cumple Emma",
+        "design": "Unicornio pastel"
+      }
+    ],
+    "customDetails": {
+      "theme": "Unicornio",
+      "colors": "Rosa, lila y dorado",
+      "message": "Feliz cumple Emma",
+      "servings": 28,
+      "referenceUrl": "",
+      "allergies": "Sin nuez"
+    }
+  },
+  {
+    "id": 2,
+    "code": "PED-2026-1042",
+    "clientId": 4,
+    "type": "Estándar",
+    "eventDate": "2026-09-19",
+    "deliveryMethod": "Recojo",
+    "deliveryAddress": "",
+    "status": "Listo",
+    "paymentStatus": "Pagado",
+    "total": 330,
+    "deposit": 330,
+    "balance": 0,
+    "priority": "Media",
+    "assignedTo": 4,
+    "createdAt": "2026-09-15",
+    "notes": "Pedido corporativo.",
+    "items": [
+      {
+        "productId": 3,
+        "qty": 2,
+        "unitPrice": 165,
+        "flavor": "",
+        "customText": "",
+        "design": ""
+      }
+    ],
+    "customDetails": null
+  },
+  {
+    "id": 3,
+    "code": "PED-2026-1043",
+    "clientId": 6,
+    "type": "Personalizado",
+    "eventDate": "2026-09-23",
+    "deliveryMethod": "Delivery",
+    "deliveryAddress": "Av. Ballivián 880",
+    "status": "Confirmado",
+    "paymentStatus": "Parcial",
+    "total": 820,
+    "deposit": 400,
+    "balance": 420,
+    "priority": "Alta",
+    "assignedTo": 4,
+    "createdAt": "2026-09-16",
+    "notes": "Evento aniversario empresa.",
+    "items": [
+      {
+        "productId": 7,
+        "qty": 1,
+        "unitPrice": 680,
+        "flavor": "Vainilla y maracuyá",
+        "customText": "10 años Marea",
+        "design": "Corporativo minimalista"
+      },
+      {
+        "productId": 4,
+        "qty": 1,
+        "unitPrice": 140,
+        "flavor": "Mixtos",
+        "customText": "",
+        "design": "Colores corporativos"
+      }
+    ],
+    "customDetails": {
+      "theme": "Corporativo",
+      "colors": "Azul petróleo y blanco",
+      "message": "10 años Marea",
+      "servings": 60,
+      "referenceUrl": "",
+      "allergies": "Ninguna informada"
+    }
+  },
+  {
+    "id": 4,
+    "code": "PED-2026-1044",
+    "clientId": 1,
+    "type": "Estándar",
+    "eventDate": "2026-09-18",
+    "deliveryMethod": "Recojo",
+    "deliveryAddress": "",
+    "status": "Entregado",
+    "paymentStatus": "Pagado",
+    "total": 180,
+    "deposit": 180,
+    "balance": 0,
+    "priority": "Baja",
+    "assignedTo": 4,
+    "createdAt": "2026-09-16",
+    "notes": "",
+    "items": [
+      {
+        "productId": 1,
+        "qty": 1,
+        "unitPrice": 180,
+        "flavor": "",
+        "customText": "",
+        "design": ""
+      }
+    ],
+    "customDetails": null
+  },
+  {
+    "id": 5,
+    "code": "PED-2026-1045",
+    "clientId": 3,
+    "type": "Personalizado",
+    "eventDate": "2026-09-25",
+    "deliveryMethod": "Recojo",
+    "deliveryAddress": "",
+    "status": "Pendiente aprobación",
+    "paymentStatus": "Pendiente",
+    "total": 390,
+    "deposit": 0,
+    "balance": 390,
+    "priority": "Media",
+    "assignedTo": 4,
+    "createdAt": "2026-09-17",
+    "notes": "Esperando aprobación del diseño.",
+    "items": [
+      {
+        "productId": 5,
+        "qty": 1,
+        "unitPrice": 390,
+        "flavor": "Red velvet",
+        "customText": "Happy 30",
+        "design": "Minimalista floral"
+      }
+    ],
+    "customDetails": {
+      "theme": "Floral minimalista",
+      "colors": "Blanco y vino",
+      "message": "Happy 30",
+      "servings": 25,
+      "referenceUrl": "",
+      "allergies": "Sin nuez"
+    }
+  }
+]

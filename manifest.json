@@ -1,0 +1,11 @@
+{
+  "name": "La Nonna — Gestión de Pastelería",
+  "short_name": "La Nonna",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff8f2",
+  "theme_color": "#8f3446",
+  "icons": [
+    {"src":"assets/img/la-nonna-logo.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}

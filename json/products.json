@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Torta Clásica de Chocolate",
+    "category": "Tortas",
+    "size": "20 cm",
+    "price": 180,
+    "cost": 82,
+    "active": true,
+    "stockReady": 2,
+    "leadTimeDays": 2,
+    "description": "Bizcochuelo de chocolate, ganache y decoración clásica."
+  },
+  {
+    "id": 2,
+    "name": "Torta Red Velvet",
+    "category": "Tortas",
+    "size": "20 cm",
+    "price": 210,
+    "cost": 96,
+    "active": true,
+    "stockReady": 1,
+    "leadTimeDays": 2,
+    "description": "Red velvet con frosting de queso crema."
+  },
+  {
+    "id": 3,
+    "name": "Cheesecake de Frutilla",
+    "category": "Postres",
+    "size": "10 porciones",
+    "price": 165,
+    "cost": 78,
+    "active": true,
+    "stockReady": 2,
+    "leadTimeDays": 1,
+    "description": "Cheesecake horneado con cobertura de frutilla."
+  },
+  {
+    "id": 4,
+    "name": "Caja de Cupcakes",
+    "category": "Cupcakes",
+    "size": "12 unidades",
+    "price": 120,
+    "cost": 54,
+    "active": true,
+    "stockReady": 4,
+    "leadTimeDays": 1,
+    "description": "Doce cupcakes decorados según temporada."
+  },
+  {
+    "id": 5,
+    "name": "Torta Personalizada Premium",
+    "category": "Personalizados",
+    "size": "30 cm",
+    "price": 390,
+    "cost": 175,
+    "active": true,
+    "stockReady": 0,
+    "leadTimeDays": 5,
+    "description": "Torta personalizada con diseño temático y detalles en fondant."
+  },
+  {
+    "id": 6,
+    "name": "Box Mini Postres",
+    "category": "Boxes",
+    "size": "16 unidades",
+    "price": 145,
+    "cost": 62,
+    "active": true,
+    "stockReady": 3,
+    "leadTimeDays": 1,
+    "description": "Selección de mini postres para reuniones."
+  },
+  {
+    "id": 7,
+    "name": "Torta Bodas 2 Pisos",
+    "category": "Eventos",
+    "size": "50 porciones",
+    "price": 680,
+    "cost": 315,
+    "active": true,
+    "stockReady": 0,
+    "leadTimeDays": 7,
+    "description": "Torta de dos pisos con diseño personalizado."
+  }
+]

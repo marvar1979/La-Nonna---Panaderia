@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="La Nonna">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d85567"/><stop offset="1" stop-color="#8f3446"/></linearGradient>
+  </defs>
+  <rect x="8" y="8" width="144" height="144" rx="38" fill="#fff8f2" stroke="#efd7cc" stroke-width="4"/>
+  <path d="M43 93h74l-7 29H50l-7-29Z" fill="url(#g)"/>
+  <path d="M51 91c4-25 18-40 29-40 11 0 25 15 29 40H51Z" fill="#f4c8b3" stroke="#8f3446" stroke-width="5"/>
+  <path d="M58 71c11 7 33 7 44 0" fill="none" stroke="#fff8f2" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="65" cy="56" r="8" fill="#d85567"/>
+  <circle cx="92" cy="48" r="7" fill="#d85567"/>
+  <path d="M79 35v17M70.5 43.5h17" stroke="#8f3446" stroke-width="5" stroke-linecap="round"/>
+</svg>

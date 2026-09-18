@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "María Rossi",
+    "email": "admin@lanonna.local",
+    "password": "Admin123!",
+    "role": "Administrador",
+    "avatar": "MR"
+  },
+  {
+    "id": 2,
+    "name": "Lucía Ferrufino",
+    "email": "manager@lanonna.local",
+    "password": "Manager123!",
+    "role": "Gerencia",
+    "avatar": "LF"
+  },
+  {
+    "id": 3,
+    "name": "Camila Vargas",
+    "email": "ventas@lanonna.local",
+    "password": "Ventas123!",
+    "role": "Ventas",
+    "avatar": "CV"
+  },
+  {
+    "id": 4,
+    "name": "Elena Quiroga",
+    "email": "produccion@lanonna.local",
+    "password": "Prod123!",
+    "role": "Producción",
+    "avatar": "EQ"
+  },
+  {
+    "id": 5,
+    "name": "Diego Salinas",
+    "email": "delivery@lanonna.local",
+    "password": "Delivery123!",
+    "role": "Reparto",
+    "avatar": "DS"
+  }
+]

@@ -1,0 +1,21 @@
+LA NONNA — CREDENCIALES DEMO
+
+Administrador
+Correo: admin@lanonna.local
+Contraseña: Admin123!
+
+Gerencia
+Correo: manager@lanonna.local
+Contraseña: Manager123!
+
+Ventas
+Correo: ventas@lanonna.local
+Contraseña: Ventas123!
+
+Producción
+Correo: produccion@lanonna.local
+Contraseña: Prod123!
+
+Reparto
+Correo: delivery@lanonna.local
+Contraseña: Delivery123!

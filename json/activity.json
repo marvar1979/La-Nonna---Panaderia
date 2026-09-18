@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "at": "2026-09-18T09:10:00",
+    "userId": 3,
+    "action": "Actualizó pedido",
+    "module": "Pedidos",
+    "detail": "PED-2026-1041 pasó a En producción."
+  },
+  {
+    "id": 2,
+    "at": "2026-09-18T08:45:00",
+    "userId": 2,
+    "action": "Aprobó compra",
+    "module": "Compras",
+    "detail": "OC-2026-031 enviada a proveedor."
+  },
+  {
+    "id": 3,
+    "at": "2026-09-17T18:20:00",
+    "userId": 3,
+    "action": "Registró pedido",
+    "module": "Pedidos",
+    "detail": "PED-2026-1045 creado para Paola Méndez."
+  },
+  {
+    "id": 4,
+    "at": "2026-09-17T16:05:00",
+    "userId": 4,
+    "action": "Actualizó producción",
+    "module": "Producción",
+    "detail": "PED-2026-1041 avanzó a Decoración."
+  }
+]

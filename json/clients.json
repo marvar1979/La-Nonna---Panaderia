@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Andrea Molina",
+    "phone": "70700111",
+    "email": "andrea.molina@email.com",
+    "address": "Av. América Oeste 1250",
+    "birthday": "1993-05-18",
+    "status": "Activo",
+    "notes": "Prefiere contacto por WhatsApp."
+  },
+  {
+    "id": 2,
+    "name": "Valeria Rojas",
+    "phone": "76433210",
+    "email": "valeria.rojas@email.com",
+    "address": "Cala Cala, calle Los Álamos 44",
+    "birthday": "1988-11-02",
+    "status": "Activo",
+    "notes": "Cliente frecuente de tortas infantiles."
+  },
+  {
+    "id": 3,
+    "name": "Paola Méndez",
+    "phone": "77982033",
+    "email": "paola.mendez@email.com",
+    "address": "Queru Queru, Edif. Mirador",
+    "birthday": "1996-08-14",
+    "status": "Activo",
+    "notes": "Solicita opciones sin nuez."
+  },
+  {
+    "id": 4,
+    "name": "Javier Arce",
+    "phone": "70311992",
+    "email": "javier.arce@email.com",
+    "address": "Tiquipaya, Av. Ecológica 310",
+    "birthday": "1985-02-21",
+    "status": "Activo",
+    "notes": "Pedidos empresariales."
+  },
+  {
+    "id": 5,
+    "name": "Sofía Heredia",
+    "phone": "72290118",
+    "email": "sofia.heredia@email.com",
+    "address": "Zona Norte, calle Potosí 78",
+    "birthday": "1990-12-09",
+    "status": "Activo",
+    "notes": ""
+  },
+  {
+    "id": 6,
+    "name": "Empresa Marea SRL",
+    "phone": "4459122",
+    "email": "eventos@marea.bo",
+    "address": "Av. Ballivián 880",
+    "birthday": "",
+    "status": "Corporativo",
+    "notes": "Facturación a nombre de Marea SRL."
+  }
+]
