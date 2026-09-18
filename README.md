@@ -1,5 +1,7 @@
 # La Nonna — Gestión de Pastelería
 
+#LINK: https://marvar1979.github.io/La-Nonna---Panaderia/
+
 Sistema web integral para la operación de una pastelería, desarrollado con HTML, CSS, JavaScript y JSON.
 
 ## Módulos
@@ -36,17 +38,3 @@ Sistema web integral para la operación de una pastelería, desarrollado con HTM
 - Diseño responsive
 - PWA básica
 
-## Ejecución
-
-Se recomienda abrir el proyecto con Live Server en Visual Studio Code:
-
-1. Abrir la carpeta `LaNonna_Professional`.
-2. Instalar la extensión Live Server si no está disponible.
-3. Clic derecho sobre `index.html`.
-4. Seleccionar `Open with Live Server`.
-
-También puede abrirse directamente desde `index.html`. En ese caso, si el navegador bloquea la lectura de los JSON, el sistema usa automáticamente `js/data-seed.js`.
-
-## Persistencia
-
-La versión HTML/CSS/JS/JSON guarda la información en el navegador mediante `localStorage`. Es apropiada para demostración, portafolio o una estación local de trabajo. Para un entorno empresarial multiusuario se recomienda conectar el mismo frontend a una API y una base de datos centralizada.
